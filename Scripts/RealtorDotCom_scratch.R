@@ -1,5 +1,5 @@
 
-file_to_examine <- "1209-Radstock-Dr_Library_PA_15129_M47489-26914"
+file_to_examine <- "./realtor/1209-Radstock-Dr_Library_PA_15129_M47489-26914"
 
 property <- read_html(file_to_examine)
 
